@@ -1,0 +1,130 @@
+*{margin:0;padding:0;}
+html{overflow-x:hidden;}
+.clear:after{content:".";clear:both;display:block;height:0;overflow:hidden;visibility:hidden;}
+#wrap-nav{width:100%;height:78px;}
+#wrap-nav .nav{width:1066px;height:78px;margin:0 auto;position:relative;}
+#wrap-nav .nav a img{margin-top:17px;float:left;}
+#wrap-nav .nav ul{float:left;margin-left:81px;}
+#wrap-nav .nav ul li{float:left;list-style:none;margin-right:2px;}
+#wrap-nav .nav ul li a{display:block;width:98px;height:78px;background:url(../images/nav.png) no-repeat;text-indent:-9999px;}
+
+#wrap-nav .nav ul li.wx a{width:122px;height:78px;background-position:-100px 0;}
+#wrap-nav .nav ul li.kf a{width:145px;height:78px;background-position:-224px 0;}
+#wrap-nav .nav ul li.hl a{width:118px;height:78px;background-position:-370px 0;}
+#wrap-nav .nav ul a:hover{background:url(../images/nav-on.png) no-repeat;}
+.nav .search{border:1px solid #cdb6a1;width:139px;height:22px;position:absolute;right:1px;top:37px;}
+.search input{float:left;}
+.search input.txt{width:117px;height:22px;border:0;background:none;}
+.search input.sub{border:0;width:22px;height:22px;background:url(../images/tencent_06.jpg) no-repeat left center;}
+.dl{width:80px;height:13px;position:absolute;right:0px;top:16px;}
+.dl a{font-size:12px;color:#a1968c;text-decoration:none;width:39px;}
+.dl a.dl1{border-right:1px solid #cdb6a1;padding-right:10px;}
+.dl a.dl2{padding-left:5px;}
+#wrap-banner{width:100%;height:396px;}
+#wrap-banner .banner{width:100%;height:358px;}
+#wrap-banner img{position:absolute;left:50%;margin-left:-719.5px;}
+#wrap-banner p{width:1066px;height:38px;margin:0 auto;line-height:38px;text-indent:51px;background:url(../images/tu.gif) no-repeat center bottom;font-weight:bold;}
+#wrap-content{width:100%;background:#d6dae2;}
+#wrap-content .content{width:1066px;margin:0 auto;padding-top:18px;}
+#wrap-content .content .content-left{float:left;}
+#wrap-content .content .content-left .rm{width:742px;background:#f2f1ef;padding:20px 20px 20px 20px;}
+#wrap-content .content .content-left .rm h3{text-indent:30px;background:url(../images/tencent_13.jpg) no-repeat 0 0;float:left;}
+#wrap-content .content .content-left .rm a{float:right;text-decoration:none;color:#888888;}
+#wrap-content .content .content-left .rm dl{width:226px;height:274px;margin-top:20px;background:#fff;float:left;margin-right:31px;}
+#wrap-content .content .content-left .rm dl.last{margin-right:0px;}
+#wrap-content .content .content-left .rm dl dt{width:227px;}
+#wrap-content .content .content-left .rm dl dd{font-size:12px;padding:14px 12px 0 10px;}
+#wrap-content .content .content-left .rm dl dd h6{width:192px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;height:24px;line-height:24px;}
+#wrap-content .content .content-left .rm dl dd p{color:#888888;height:21px;line-height:21px;}
+#wrap-content .content .content-left .gh{width:742px;background:#f2f1ef;margin-top:18px;padding:20px 20px 20px 20px;}
+#wrap-content .content .content-left .gh h3{text-indent:30px;background:url(../images/tencent_25.jpg) no-repeat 0 0;float:left;}
+#wrap-content .content .content-left .gh a{float:right;text-decoration:none;color:#888888;}
+#wrap-content .content .content-left .gh dl{width:740px;height:125px;background:#fff;margin-top:20px;}
+#wrap-content .content .content-left .gh dl dt{padding:20px 0 0 20px;float:left;}
+#wrap-content .content .content-left .gh dl dd{padding:20px 0 0 20px;float:left;}
+#wrap-content .content .content-left .gh dl dd h4{font-size:16px;height:27px;line-height:27px;}
+#wrap-content .content .content-left .gh dl dd .p-5{font-size:12px;color:#888;text-indent:17px;height:22px;line-height:22px;background:url(../images/tencent_34.jpg) no-repeat left center;}
+#wrap-content .content .content-left .gh dl dd .p-6{font-size:12px;height:24px;line-height:24px;}
+#wrap-content .content .content-left .jp{width:742px;background:#f2f1ef;margin-top:18px;padding:20px 20px 55px 20px;}
+#wrap-content .content .content-left .jp h3{text-indent:30px;background:url(../images/tencent_40.jpg) no-repeat 0 0;float:left;}
+#wrap-content .content .content-left .jp a{float:right;text-decoration:none;color:#888888;}
+#wrap-content .content .content-left .jp dl{width:711px;height:181px;margin-top:20px;border-bottom:1px solid #e4e3e2;}
+#wrap-content .content .content-left .jp dl dt{float:left;}
+#wrap-content .content .content-left .jp dl dd{float:left;padding:0 0 0 20px;}
+#wrap-content .content .content-left .jp dl dd h4{}
+#wrap-content .content .content-left .jp dl dd .p-7{color:#888;font-size:12px;text-indent:17px;background:url(../images/tencent_34.jpg) no-repeat left center;height:36px;line-height:36px;}
+#wrap-content .content .content-left .jp dl dd .p-8{line-height:24px;font-size:12px;width:462px;margin-top:16px;}
+#wrap-content .content .content-right{float:right;width:266px;background:#fcfafb;}
+#wrap-content .content .content-right .phb{width:226px;padding:20px 20px 20px 20px;border-bottom:1px solid #ccc;}
+#wrap-content .content .content-right .phb h3{text-indent:30px;background:url(../images/30.jpg) no-repeat 0 0;}
+#wrap-content .content .content-right .phb .ul-1 {padding-top:20px;}
+#wrap-content .content .content-right .phb .ul-1  li{float:left;list-style:none;border-bottom:1px solid #cccccc;}
+
+#wrap-content .content .content-right .phb .ul-1 li a{text-decoration:none;height:31px;line-height:31px;padding:0 28px;font-size:12px;color:#919191;}
+#wrap-content .content .content-right .phb .ul-1 li:hover{border:1px solid #cccccc;border-bottom:0;}
+#wrap-content .content .content-right .phb .ul-1 li:hover a{padding:0 27px;color:#000;}
+#wrap-content .content .content-right .phb .image1{position:relative;width:227px;height:160px;margin-top:20px;float:left;}
+#wrap-content .content .content-right .phb .image1 img{z-index:1;width:227px;height:160px;}
+#wrap-content .content .content-right .phb .image1 .tm{height:26px;width:100%;background:#000;position:absolute;bottom:0;left:0;z-index:10;opacity:0.5;}
+#wrap-content .content .content-right .phb .image1 .small-content{height:26px;width:100%;position:absolute;bottom:0;left:0;z-index:10;background:url(../images/3.gif) no-repeat left top;}
+#wrap-content .content .content-right .phb .image1 .small-content a{text-decoration:none;font-size:12px;color:#fff;margin-left:30px;}
+
+#wrap-content .content .content-right .phb .image2{position:relative;width:227px;height:160px;margin-top:20px;float:left;}
+#wrap-content .content .content-right .phb .image2 img{z-index:1;width:227px;height:160px;}
+#wrap-content .content .content-right .phb .image2 .tm{height:26px;width:100%;background:#000;position:absolute;bottom:0;left:0;z-index:10;opacity:0.5;}
+#wrap-content .content .content-right .phb .image2 .small-content{height:26px;width:100%;position:absolute;bottom:0;left:0;z-index:10;background:url(../images/3.gif) no-repeat left top;}
+#wrap-content .content .content-right .phb .image2 .small-content a{text-decoration:none;font-size:12px;color:#fff;margin-left:30px;}
+
+#wrap-content .content .content-right .phb .image3{position:relative;width:227px;height:160px;margin-top:20px;float:left;}
+#wrap-content .content .content-right .phb .image3 img{z-index:1;width:227px;height:160px;}
+#wrap-content .content .content-right .phb .image3 .tm{height:26px;width:100%;background:#000;position:absolute;bottom:0;left:0;z-index:10;opacity:0.5;}
+#wrap-content .content .content-right .phb .image3 .small-content{height:26px;width:100%;position:absolute;bottom:0;left:0;z-index:10;background:url(../images/3.gif) no-repeat left top;}
+#wrap-content .content .content-right .phb .image3 .small-content a{text-decoration:none;font-size:12px;color:#fff;margin-left:30px;}
+#wrap-content .content .content-right .phb .ul-2{margin-top:11px;float:left;}
+#wrap-content .content .content-right .phb .ul-2 ul{}
+#wrap-content .content .content-right .phb .ul-2 ul li{list-style:none;}
+#wrap-content .content .content-right .phb .ul-2 ul li a{text-decoration:none;font-size:12px;color:#000;display:block;width:185px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;height:30px;line-height:30px;text-indent:30px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li1{background:url(../images/tx_03.jpg) no-repeat 1px 4px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li2{background:url(../images/tx_06.jpg) no-repeat 1px 4px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li3{background:url(../images/tx_08.jpg) no-repeat 1px 4px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li4{background:url(../images/tx_10.jpg) no-repeat 1px 4px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li5{background:url(../images/tx_12.jpg) no-repeat 1px 4px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li6{background:url(../images/tx_14.jpg) no-repeat 1px 4px;}
+#wrap-content .content .content-right .phb .ul-2 ul li.li7{background:url(../images/tx_16.gif) no-repeat 1px 4px;}
+#wrap-content .content .content-right .tc{border-bottom:1px solid #e4e3e2;padding:17px 20px 20px 20px;}
+#wrap-content .content .content-right .tc img.img1{margin-left:101px;margin-top:17px;}
+#wrap-content .content .content-right .tc img.img2{margin-top:45px;margin-left:15px;}
+#wrap-content .content .content-right .tc h4{height:39px;line-height:39px;margin-top:55px;}
+#wrap-content .content .content-right .tc p{font-size:12px;line-height:25px;}
+#wrap-content .content .content-right .lx{padding:17px 20px 0px 20px;height:275px;}
+#wrap-content .content .content-right .lx h3{text-indent:30px;background:url(../images/tencent_51.jpg) no-repeat 0 0;}
+#wrap-content .content .content-right .lx p{line-height:25px;font-size:12px;}
+#wrap-content .content .content-right .lx .p-1{margin-top:18px;}
+#wrap-footerlink{width:100%;height:314px;background:url(../images/tencent_57.jpg) no-repeat left top;}
+#wrap-footerlink .footerlink{width:1066px;margin:0 auto;}
+#wrap-footerlink .footerlink .footerlink-left{width:818px;float:left;}
+#wrap-footerlink .footerlink .footerlink-left h6{font-size:12px;padding-top:39px;}
+#wrap-footerlink .footerlink .footerlink-left .ul-1{margin-left:34px;width:792px;}
+#wrap-footerlink .footerlink .footerlink-left .ul-1 li{float:left;list-style:none;height:49px;width:79px;margin-right:52px;}
+#wrap-footerlink .footerlink .footerlink-left .ul-1 li a{display:inline-block;vertical-align:middle;text-decoration:none;}
+#wrap-footerlink .footerlink .footerlink-left .ul-1 li span{display:inline-block;vertical-align:middle;height:100%;width:0;}
+#wrap-footerlink .footerlink .footerlink-left .ul-1 li img{display:block;}
+#wrap-footerlink .footerlink .footerlink-left .ul-1 li.last a{height:49px;line-height:49px;color:#3f3f3f;font-size:12px;text-align:left;}
+
+#wrap-footerlink .footerlink .footerlink-left h5{font-size:12px;margin-top:23px;height:28px;line-height:28px;}
+#wrap-footerlink .footerlink .footerlink-left .ul-2{}
+#wrap-footerlink .footerlink .footerlink-left .ul-2 li{list-style:none;float:left;}
+#wrap-footerlink .footerlink .footerlink-left .ul-2 li a{text-decoration:none;font-size:12px;color:#3f3f3f;padding:0 14px;height:25px;line-height:25px;text-align:center;}
+
+#wrap-footerlink .footerlink .footerlink-right{width:248px;height:314px;float:left;}
+#wrap-footerlink .footerlink .footerlink-right h6{margin-top:38px;font-size:12px;}
+#wrap-footerlink .footerlink .footerlink-right h5{font-size:12px;margin-top:19px;}
+#wrap-footerlink .footerlink .footerlink-right p{height:25px;line-height:25px;font-size:12px;text-indent:24px;margin-top:16px;}
+#wrap-footerlink .footerlink .footerlink-right p.p-3{background:url(../images/1.gif) no-repeat left top;}
+#wrap-footerlink .footerlink .footerlink-right p.p-4{background:url(../images/2.gif) no-repeat left top;}
+
+
+#wrap-footer{width:100%;height:102px;background:#bababa;}
+#wrap-footer .footer{width:1066px;margin:0 auto;}
+#wrap-footer .footer p{font-size:12px;padding-top:27px;height:23px;line-height:23px;text-align:center;}
+#wrap-footer .footer h6{font-size:12px;height:23px;line-height:23px;text-align:center;}
